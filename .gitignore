@@ -1,0 +1,6 @@
+.env
+pandasai.log
+.venv
+cache
+exports
+myenv
